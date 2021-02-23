@@ -8,10 +8,10 @@ This is a blogging website
 
 <img src=blog-screanshots/127.0.0.1_5000_contact.png width='600' hight='500'>
 
-<img src=blog-screanshots/127.0.0.1_5000_dashboard%20(1).png width='600' hight='500'>
+<img src=blog-screanshots/127.0.0.1_5000_dashboard%20(1).png width='800' hight='800'>
 
-<img src=blog-screanshots/127.0.0.1_5000_dashboard%20(2).png width='600' hight='500'>
+<img src=blog-screanshots/127.0.0.1_5000_dashboard%20(2).png width='800' hight='800'>
 
-<img src=blog-screanshots/127.0.0.1_5000_edit_0.png width='600' hight='500'>
+<img src=blog-screanshots/127.0.0.1_5000_edit_0.png width='800' hight='800'>
 
-<img src=blog-screanshots/127.0.0.1_5000_post_d-jango-py.png width='600' hight='500'>
+<img src=blog-screanshots/127.0.0.1_5000_post_d-jango-py.png width='800' hight='1000'>
