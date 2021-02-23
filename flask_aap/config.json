@@ -1,0 +1,23 @@
+{
+  "params":
+  {"local_server":"True",
+    "local_uri": "mysql://root:@localhost/w3coders",
+    "prod_uri": "mysql://root:@localhost/w3coders'",
+    "fb_url": "https://www.facebook.com/rishab.gupta.10420/",
+    "tw_url": "https://twitter.com/bluerakun001",
+    "git_url": "https://github.com/optirg-39",
+    "gmail-username": "elurngonline@gmail.com",
+    "gmail-password": "letsshop",
+    "blog_name": "w3coders",
+    "tag_line":"Coding for all",
+    "about_text": "Hi i am rishabh i am a web developer and i am learning flask in Python",
+    "no_of_posts": 3,
+    "login_image":"bot_img.svg",
+    "admin_user":"rishabh",
+    "admin_password": "learnWeb",
+    "upload_location": "C:\\Users\\dell\\PycharmProjects\\flask_Lrn\\static\\upload_files"
+
+
+
+  }
+}

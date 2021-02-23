@@ -10,9 +10,9 @@
     "gmail-password": "letsshop",
     "blog_name": "w3coders",
     "tag_line":"Coding for all",
-    "about_text": "Hi i am rishabh i am a web developer and i am learning flask in Python",
+    "about_text": "Hi I am Rishabh a web development",
     "no_of_posts": 3,
-    "login_image":"bot_img.svg",
+    "login_image":"download.svg",
     "admin_user":"rishabh",
     "admin_password": "learnWeb",
     "upload_location": "C:\\Users\\dell\\PycharmProjects\\flask_Lrn\\static\\upload_files"
